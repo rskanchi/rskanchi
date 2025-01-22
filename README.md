@@ -10,7 +10,7 @@ Thank you for visiting me! Let's connect at
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupa-kanchi-8428982b/) [![X](https://img.shields.io/badge/-Follow%20Me-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/rupakanchi)  
 
-Random stat joke:  
-Two random variables were gossiping and thought they were discrete by whispering but I heard their chatter continuously.  
+### The Continuous Whisper of Random Variables  
+🎲Two random variables were gossiping, thinking they were discrete by whispering... but I overheard their chatter continuously!😄  
 
 ---
