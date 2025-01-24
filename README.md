@@ -4,7 +4,7 @@ Welcome to my GitHub! I am a work in progress, trying to create space to highlig
 
 <kbd>Data Science</kbd> <kbd>Computational Omics</kbd> <kbd>Research</kbd> <kbd>Analysis</kbd> <kbd>Visualization</kbd> <kbd>R</kbd>
 
-Currently, I'm focused on machine learning for survival or time-to-event data🙇‍♀️and crafting visualizations🔭🤔 for a few manuscripts. You'll often find me experimenting with tools like <kbd>BioRender</kbd> and <kbd>illustrator</kbd>🤷  
+Currently, I'm focused on machine learning for survival or time-to-event data🙇‍♀️and crafting visualizations🔭🤔 for a few manuscripts. You'll often find me experimenting with tools like <kbd>BioRender</kbd> and <kbd>Illustrator</kbd>🤷  
 
 Thanks for stopping by!   
 
