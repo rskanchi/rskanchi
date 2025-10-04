@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 # Hi there! 👋
 
-Welcome to my GitHub! I am a work in progress, trying to create space to highlight my projects and interests.
+Welcome to my GitHub! This space is constantly evolving as I share the projects and ideas I'm exploring.
 
-<kbd>Data Science</kbd> <kbd>Computational Omics</kbd> <kbd>Research</kbd> <kbd>Analytics</kbd> <kbd>Visualization</kbd> <kbd>R</kbd>
+<kbd>Data Science</kbd> <kbd>Bioinformatics</kbd> <kbd>Research</kbd> <kbd>Analytics</kbd> <kbd>Visualization</kbd> <kbd>Grants</kbd> <kbd>R</kbd> <kbd>Omics</kbd> 
 
 I developed a machine learning workflow that performs both classification and regression tasks using a range of methods, including tree-based (Random Forest), instance-based (KNN), kernel-based (SVM), boosting (GBM), and regularization approaches (Lasso, Elastic Net, Ridge). Currently, I’m exploring multimodal modeling 🤔 and getting my hands wet building LLMs from scratch 🤖. As usual 🤷, I’m working on multiple projects across lung transplant outcomes and pediatric liver diseases — some in data preprocessing 🙇‍♀️, some in analysis, and others inching toward manuscript submission.
 
@@ -18,10 +18,10 @@ And now, for a touch of randomness..
 
 Good data analysis is like Netflix for Numbers 🎬 it narrates a saga of discovery 🔍 where every dataset has a story waiting to stream✨
 
---- ;
+---  
 
 ## When Data Speak, Opinions Listen
 
 Data turn opinions into insights💡📊 Without data, opinions are just noise 🔇
 
---- ;
+---  
