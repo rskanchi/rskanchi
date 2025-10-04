@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a work in progress, trying to create space to highlig
 
 I developed a machine learning workflow that performs both classification and regression tasks using a range of methods, including tree-based (Random Forest), instance-based (KNN), kernel-based (SVM), boosting (GBM), and regularization approaches (Lasso, Elastic Net, Ridge). Currently, I’m exploring multimodal modeling 🤔 and getting my hands wet building LLMs from scratch 🤖. As usual 🤷, I’m working on multiple projects across lung transplant outcomes and pediatric liver diseases — some in data preprocessing 🙇‍♀️, some in analysis, and others inching toward manuscript submission.
 
-Our recent work on plasma proteome correlations with liver stiffness in pediatric cholestasis is now published in Hepatology Communications 📄 👉 [https://pubmed.ncbi.nlm.nih.gov/41021277/]. Another study on extracellular vesicle mRNA profiles in ex vivo lung perfusion and their implications for primary graft dysfunction in lung transplantation is currently under peer review.
+Our recent work on **plasma proteome correlations with liver stiffness in pediatric cholestasis** is [now published](https://pubmed.ncbi.nlm.nih.gov/41021277/) in *Hepatology Communications*. Another study on extracellular vesicle mRNA profiles in ex vivo lung perfusion and their implications for primary graft dysfunction in lung transplantation is currently under peer review.
   
 Thanks for stopping by!  
 
