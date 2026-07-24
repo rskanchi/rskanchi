@@ -6,15 +6,15 @@ I'm a Computational Genomics Scientist turning multi-omics data into biomarker i
 
 I work across a full spectrum of computational biology workflows, from study design to discovery. A few pieces of my toolkit:
 
-- **Unsupervised learning**: [`consensusClustR`](https://github.com/rskanchi/consensusClustR) · Consensus clustering from subsample-clusters, for when you need robust, stable patient/sample subgroups.
+> **Unsupervised learning**: [`consensusClustR`](https://github.com/rskanchi/consensusClustR) · Consensus clustering from subsample-clusters, for when you need robust, stable sample subgroups.
 
-- **Experiment/Study design**: [`omicsPoweR`](https://github.com/rskanchi/omicsPoweR) · Power analysis for omics studies.
+> **Experiment/Study design**: [`omicsPoweR`](https://github.com/rskanchi/omicsPoweR) · Power analysis for omics studies.
 
-- **Dimensionality reduction**: [`EigenSpace`](https://github.com/rskanchi/EigenSpace) · Interactive Shiny app for exploring PCA, paired with an [`Understanding PCA`](https://github.com/rskanchi/EigenSpace/blob/main/docs/UnderstandingPCA.md).
+> **Dimensionality reduction**: [`EigenSpace`](https://github.com/rskanchi/EigenSpace) · Interactive Shiny app for exploring PCA, paired with an [`Understanding PCA`](https://github.com/rskanchi/EigenSpace/blob/main/docs/UnderstandingPCA.md).
 
-- **Visualization**: [`Vennify`](https://github.com/rskanchi/Vennify) · Proportional Venn diagrams from gene lists.
+> **Visualization**: [`Vennify`](https://github.com/rskanchi/Vennify) · Proportional Venn diagrams from gene lists.
 
-- **Supervised learning**: classification & regression workflows spanning tree-based bagging/boosting (Random Forest, GBM), instance-based (KNN), kernel-based (SVM), and regularized regression (Lasso, Elastic Net, Ridge).
+> **Supervised learning**: classification & regression workflows spanning tree-based bagging/boosting (Random Forest, GBM), instance-based (KNN), kernel-based (SVM), and regularized regression (Lasso, Elastic Net, Ridge).
 
 ---
 
