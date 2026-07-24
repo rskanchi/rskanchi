@@ -1,27 +1,32 @@
-<!-- markdownlint-disable MD033 -->
 # Hi there! 👋
 
-Welcome to my GitHub! This space is constantly evolving as I share the projects and ideas I'm exploring.
+I'm a Computational Genomics Scientist turning multi-omics data into biomarker insights and clinical stories, one chaos moment and one debugging session at a time.
 
-<kbd>Data Science</kbd> <kbd>Bioinformatics</kbd> <kbd>Research</kbd> <kbd>Analytics</kbd> <kbd>Visualization</kbd> <kbd>Grants</kbd> <kbd>R</kbd> <kbd>Omics</kbd> 
+<kbd>Bioinformatics</kbd> <kbd>Omics</kbd> <kbd>Machine Learning</kbd> <kbd>Analytics</kbd> <kbd>Visualization</kbd> 
 
-I developed a machine learning workflow that performs both classification and regression tasks using a range of methods, including tree-based bagging and boosting (Random Forest, GBM), instance-based (KNN), kernel-based (SVM), and regularization (Lasso, Elastic Net, Ridge) approaches. Currently, I’m exploring deep learning for image analysis and multimodal modeling 🤔. I’m working on multiple projects 🤷 related to lung transplant outcomes and pediatric liver diseases at various stages.. data preprocessing 🙇‍♀️, analyses, and some inching toward manuscript submission.
+I work across a full spectrum of computational biology workflows, from study design to discovery. A few pieces of my toolkit:
 
-Our recent work on **plasma proteome correlations with liver stiffness in pediatric cholestasis** is [now published](https://pubmed.ncbi.nlm.nih.gov/41021277/) in *Hepatology Communications*. Another study on extracellular vesicle mRNA profiles in ex vivo lung perfusion and their implications for primary graft dysfunction in lung transplantation is currently under peer review.
-  
+- **Unsupervised learning**: [`consensusClustR`](https://github.com/rskanchi/consensusClustR) · Consensus clustering from subsample-clusters, for when you need robust, stable patient/sample subgroups.
+
+- **Experiment/Study design**: [`omicsPoweR`](https://github.com/rskanchi/omicsPoweR) · Power analysis for omics studies.
+
+- **Visualization**: [`Vennify`](https://github.com/rskanchi/Vennify) · Proportional Venn diagrams from gene lists.
+
+- **Dimensionality reduction**: [`EigenSpace`](https://github.com/rskanchi/EigenSpace) · Interactive Shiny app for exploring PCA, paired with an [`Understanding PCA`](https://github.com/rskanchi/EigenSpace/blob/main/docs/UnderstandingPCA.md).
+
+- **Supervised learning**: classification & regression workflows spanning tree-based bagging/boosting (Random Forest, GBM), instance-based (KNN), kernel-based (SVM), and regularized regression (Lasso, Elastic Net, Ridge).
+
+---
+
+## What I'm working on
+
+Multiple projects in various stages of concept-to-completion cycle 🙇‍♀️, including lung transplant outcomes and pediatric liver disease:
+
+- Our work on **plasma proteome correlations with liver stiffness in pediatric cholestasis** is [published in Hepatology Communications](https://pubmed.ncbi.nlm.nih.gov/41021277/).
+- A study on extracellular vesicle mRNA profiles in ex vivo lung perfusion and primary graft dysfunction is currently under peer review.
+
+---
+
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/rupa-kanchi-8428982b/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=aboO5nwAAAAJ&authuser=1)
+
 Thanks for stopping by!  
-
----  
-And now, for a touch of randomness..
-
-## A Binge-Worthy Journey - from Data to Discovery
-
-Good data analysis is like Netflix for Numbers 🎬 it narrates a saga of discovery 🔍 where every dataset has a story waiting to stream✨
-
----  
-
-## When Data Speak, Opinions Listen
-
-Data turn opinions into insights💡📊 Without data, opinions are just noise 🔇
-
----  
