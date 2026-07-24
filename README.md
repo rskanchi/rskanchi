@@ -10,19 +10,20 @@ I work across a full spectrum of computational biology workflows, from study des
 
 - **Experiment/Study design**: [`omicsPoweR`](https://github.com/rskanchi/omicsPoweR) · Power analysis for omics studies.
 
-- **Visualization**: [`Vennify`](https://github.com/rskanchi/Vennify) · Proportional Venn diagrams from gene lists.
-
 - **Dimensionality reduction**: [`EigenSpace`](https://github.com/rskanchi/EigenSpace) · Interactive Shiny app for exploring PCA, paired with an [`Understanding PCA`](https://github.com/rskanchi/EigenSpace/blob/main/docs/UnderstandingPCA.md).
+
+- **Visualization**: [`Vennify`](https://github.com/rskanchi/Vennify) · Proportional Venn diagrams from gene lists.
 
 - **Supervised learning**: classification & regression workflows spanning tree-based bagging/boosting (Random Forest, GBM), instance-based (KNN), kernel-based (SVM), and regularized regression (Lasso, Elastic Net, Ridge).
 
 ---
 
-## What I'm working on
+## I'm working on...
 
-Multiple projects in various stages of concept-to-completion cycle 🙇‍♀️, including lung transplant outcomes and pediatric liver disease:
+Multiple projects at various stages of concept-to-completion cycle 🙇‍♀️, including lung transplant outcomes and pediatric liver disease.
 
 - Our work on **plasma proteome correlations with liver stiffness in pediatric cholestasis** is [published in Hepatology Communications](https://pubmed.ncbi.nlm.nih.gov/41021277/).
+
 - A study on extracellular vesicle mRNA profiles in ex vivo lung perfusion and primary graft dysfunction is currently under peer review.
 
 ---
