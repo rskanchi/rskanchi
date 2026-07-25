@@ -32,7 +32,7 @@ Multiple projects at various stages of concept-to-completion cycle 🙇‍♀️
 
 ---
 
-📫 Find me on [LinkedIn](https://www.linkedin.com/in/rupa-kanchi-8428982b/)  
-🤓 Nerdy details > [Google Scholar](https://scholar.google.com/citations?hl=en&user=aboO5nwAAAAJ&authuser=1) · [ORCID](https://orcid.org/0009-0006-2571-7077)   
+📫 Find me on <kbd>[LinkedIn](https://www.linkedin.com/in/rupa-kanchi-8428982b/)</kbd>  
+🤓 Nerdy details: <kbd>[Google Scholar](https://scholar.google.com/citations?hl=en&user=aboO5nwAAAAJ&authuser=1)</kbd> · <kbd>[ORCID](https://orcid.org/0009-0006-2571-7077)</kbd>   
 
 Thanks for stopping by!  
