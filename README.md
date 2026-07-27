@@ -10,16 +10,16 @@ I work across a full spectrum of computational biology workflows, from study des
 
 A few pieces of my toolkit:
 
-> **Unsupervised learning**: [`consensusClustR`](https://github.com/rskanchi/consensusClustR) · 
+> **Unsupervised learning**: [`consensusClustR`](https://github.com/rskanchi/consensusClustR) · \
 Consensus clustering from subsample-clusters, for when you need robust, stable sample subgroups.
 
-> **Experiment/Study design**: [`omicsPoweR`](https://github.com/rskanchi/omicsPoweR) · 
+> **Experiment/Study design**: [`omicsPoweR`](https://github.com/rskanchi/omicsPoweR) · \
 Power analysis for omics studies.
 
-> **Dimensionality reduction**: [`EigenSpace`](https://github.com/rskanchi/EigenSpace) · 
+> **Dimensionality reduction**: [`EigenSpace`](https://github.com/rskanchi/EigenSpace) · \
 Interactive Shiny app for exploring PCA, paired with an example on [`Understanding PCA`](https://github.com/rskanchi/EigenSpace/blob/main/docs/UnderstandingPCA.md).
 
-> **Visualization**: [`Vennify`](https://github.com/rskanchi/Vennify) · 
+> **Visualization**: [`Vennify`](https://github.com/rskanchi/Vennify) · \
 Proportional Venn diagrams from gene lists.
 
 > **Supervised learning**: Classification & regression workflows spanning tree-based bagging/boosting (Random Forest, GBM), instance-based (KNN), kernel-based (SVM), and regularized regression (Lasso, Elastic Net, Ridge).
